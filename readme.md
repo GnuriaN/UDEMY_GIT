@@ -1,3 +1,8 @@
+# Git: Полный курс для начинающих и не только
+URL: https://www.udemy.com/course/git-alishev/learn/lecture/14211812
+
+---
+
 # Git command
 
 `git init` - инициализация репозитория
@@ -92,8 +97,8 @@
 - `-x` - и указать в сообщение hash исходного коммита
 - `--signoff` - и указать того, кто совершил cherry-pick 
 
-
 ---
+
 `git log` - получить историю коммитов в репозитории
 
 `git log --oneline` - получить историю коммитов в репозитории в виде hash message
