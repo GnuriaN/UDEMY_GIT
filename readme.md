@@ -68,3 +68,8 @@
 `git checkout <BRANCH>` - переключиться на ветку `<BRANCH>`
 
 `git merge <BRANCH>` - слить ветку <BRANCH> c текущей (куда указывает `HEAD`) веткой
+
+`git fetch` - получить информацию об изменениях в удалённом репозитории
+> `git pull` = `git fetch && git merge <name> <BRANCH>`.
+
+
